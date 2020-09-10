@@ -1,4 +1,4 @@
-![Poster](https://github.com/cheshirepezz/pyPLUTO/blob/master/Poster.jpg "Poster")
+![Poster](https://github.com/cheshirepezz/pyPLUTO/blob/master/Poster.jpeg "Poster")
 </p>
 
 <p align="center">
