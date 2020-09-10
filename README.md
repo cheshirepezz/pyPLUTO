@@ -66,7 +66,8 @@ The code can be installed using a standard procedure. This can be done by follow
 The best practice is to create your own PYTHONPATH and do a local install in the following way!
 
 2. Local Install:
-   * Create a directory where to store this module: ```mkdir MyPython_Modules•Unzip the source code: unzip pyPLUTO-1.0.zip```
+   * Create a directory where to store this module: ```mkdir MyPython_Modules```
+   * Unzip the source code: ```unzip pyPLUTO-1.0.zip```
    * Enter into the directory: ```cd pyPLUTO-1.0```
    * Install the code in the directory created: ```python setup.py install --prefix=<path toMyPython_Modules>```
    * Then append the following in your ".bashrc": ```export PYTHONPATH =$HOME/MyPython_Modules/lib/python<ver>/site-packages```
