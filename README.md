@@ -34,13 +34,9 @@ The code is completely written using the Python Language. Further the GUI is dev
 
 #### Features of the code: 
 
-1. Completely based on Python and easy to work without need of any licenses
-like in IDL. 
-2. The GUI environment provides a tool for quick-check of data during the
-simulations runs. 
-3. The code is user friendly and allows the user to even do further plotting
-of contours, velocity vectors
-on the surface plot.
+1. Completely based on Python and easy to work without need of any licenses like in IDL. 
+2. The GUI environment provides a tool for quick-check of data during the simulations runs. 
+3. The code is user friendly and allows the user to even do further plotting of contours, velocity vectors on the surface plot.
 4. Also the code can read the saved user defined variables. 
 
 #### Limitations:
