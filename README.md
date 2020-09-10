@@ -1,3 +1,4 @@
+![Poster](https://github.com/cheshirepezz/pyPLUTO/blob/master/Poster.jpg "Poster")
 </p>
 
 <p align="center">
@@ -19,14 +20,18 @@
 
 # pyPLUTO
 
-TASK: Quick Tool for Visualization of PLUTO code [Mignone 2007] data
-AUTHORS: Bhargav Vaidya [University of Leeds/MPI Astronomy, Heidelberg]
-          Denis Stepanovs [MPI Astronomy, Heidelberg] 
+##### TASK: 
+      Quick Tool for Visualization of PLUTO code [Mignone 2007] data
+
+##### AUTHORS: 
+      Bhargav Vaidya [University of Leeds/MPI Astronomy, Heidelberg]
+      Denis Stepanovs [MPI Astronomy, Heidelberg] 
+      
 This is the more usable version of the Official [pyPLUTO](https://github.com/coolastro/pyPLUTO) by Bhargav Vaidya.
 The code is completely written using the Python Language. Further the GUI is developed with the Tkinter Interface.
 
 
-### Features of this code: 
+#### Features of the code: 
 
 1. Completely based on Python and easy to work without need of any licenses
 like in IDL. 
@@ -37,7 +42,7 @@ of contours, velocity vectors
 on the surface plot.
 4. Also the code can read the saved user defined variables. 
 
-### Limitations:
+#### Limitations:
 
 1. Only 2D views are available for 3D data. 
 2. The code up-till now only has visualization tools for static data. The AMR data can not be viewed with the same. 
